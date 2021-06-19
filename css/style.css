@@ -16,3 +16,7 @@
 .design-info, .dev-info, .product-info{
     display: none;
 }
+
+.card p{
+    display: none;
+}
