@@ -19,4 +19,11 @@
 
 .card p{
     display: none;
+    font-size: 30px;
+    font-weight: bolder;
+    color: rgb(69, 16, 77);
+    line-height: 5.5;
+}
+.card:hover{
+    opacity: 0.8;
 }
