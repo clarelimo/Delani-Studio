@@ -34,3 +34,16 @@
 .card:hover{
     opacity: 0.6;
 }
+
+input[type=text],input[type=email],#message{
+    background-color: transparent;
+    border: 1px solid white;
+}
+.form-control::placeholder { 
+    color: white;
+    opacity: 1;
+}
+#submit{
+    background-color: white;
+    border-radius: 5px;
+}
