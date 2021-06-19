@@ -21,9 +21,9 @@
     display: none;
     font-size: 30px;
     font-weight: bolder;
-    color: rgb(69, 16, 77);
+    color: white;
     line-height: 5.5;
 }
 .card:hover{
-    opacity: 0.8;
+    opacity: 0.6;
 }
