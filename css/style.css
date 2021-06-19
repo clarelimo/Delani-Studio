@@ -6,3 +6,9 @@
     padding-top: 15%;
     color: white;
 }
+.services{
+    background-image: url("../images/backgrounds/s_image.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
