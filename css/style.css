@@ -12,3 +12,7 @@
     background-position: center;
     background-repeat: no-repeat;
 }
+
+.design-info, .dev-info, .product-info{
+    display: none;
+}
