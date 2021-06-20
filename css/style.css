@@ -1,3 +1,6 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
 .landing{
     background-image: url("../images/backgrounds/h_img.jpg");
     background-size: cover;
